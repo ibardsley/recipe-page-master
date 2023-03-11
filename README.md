@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://master--cool-melomakarona-f17863.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/ibardsley/recipe-page-master">
       Solution
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-challenge}">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
   </h3>
@@ -41,18 +41,20 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Where can I see your demo? https://master--cool-melomakarona-f17863.netlify.app/
+- What was your experience? I really enjoyed this build as I felt more confident having done the previous 3 challenges so I am
+  happy to see myself progressing.
+- What have you learned/improved? I continue to improve my responsive web pages as I feel this is my best yet. I improved my use
+  of CSS to manipulate the elements to do what I needed
+- Your wisdom? :) Keep practicing and working through it one step at a time. if you get stuck research specifically what you are stuck
+  on and you will find your answer.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- HTML
+- CSS
 
 ## Features
 
@@ -70,7 +72,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/ibardsley/recipe-page-master
 
 # Install dependencies
 $ npm install
@@ -84,11 +86,9 @@ $ npm start
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- W3 Schools CSS Grid to help figure out how to get the number of servings and baking times to show correctly on the small screen.
+- StackOverFlow to help with getting the text to wrap responsively
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@ibardsley](https://github.com/ibardsley/recipe-page-master)
